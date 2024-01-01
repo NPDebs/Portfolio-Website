@@ -368,6 +368,18 @@ footer p:nth-child(2){
     font-size: 14px;
 }
 
+
+/* #slide {
+    display: flex;
+    overflow: hidden;
+}
+#slide #backslide {
+    position: relative;
+    width: 90%;
+    margin: 0;
+    left: 0;
+} */
+
 @media screen and (max-width:850px){
     .main {
         width: 1130px;
