@@ -368,17 +368,34 @@ footer p:nth-child(2){
     font-size: 14px;
 }
 
+#github-contributions {
+    h1 {
+        color: #f9004d;
+    }  
+    .section {
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
 
-/* #slide {
+    .commit-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
     display: flex;
-    overflow: hidden;
+    align-items: center;
+    }
+    .commit-card img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    }
+    .commit-details {
+    flex-grow: 1;
+    }
 }
-#slide #backslide {
-    position: relative;
-    width: 90%;
-    margin: 0;
-    left: 0;
-} */
 
 @media screen and (max-width:850px){
     .main {
