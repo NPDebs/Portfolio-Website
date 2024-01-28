@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <title>Your GitHub Contributions</title>
+</head>
+
+<body>
+    <div id="github-contributions"></div>
+
+    <script>
+        const username = process.env.GITHUB_USERNAME;
+        const organisation = process.env.GITHUB_ORGANISATION;
+        const token = process.env.GITHUB_TOKEN;
+
+        const api_url = `https://api.github.com/orgs/${organisation}/repos`;
+
+        fetch(api_url, {
+            headers: {
+                Authorization: `Bearer ${token}`
+            }
+        })
+        .then(response => response.json())
+        .then(repos => {
+            const contributions_div = document.getElementById('github-contributions');
+
+            const issues_section = document.createElement('div');
+            issues_section.className = 'section';
+            issues_section.innerHTML = '<h1>Issues</h1>';
+            contributions_div.appendChild(issues_section);
+
+            const pull_requests_section = document.createElement('div');
+            pull_requests_section.className = 'section';
+            pull_requests_section.innerHTML = '<h1>Pull Requests</h1>';
+            contributions_div.appendChild(pull_requests_section);
+
+            repos.forEach(repo => {
+                const repo_name = repo.name;
+                const repo_url = repo.html_url;
+
+                const issues_url = `https://api.github.com/repos/${organisation}/${repo_name}/issues`;
+                const pull_requests_url = `https://api.github.com/repos/${organisation}/${repo_name}/pulls`;
+
+                // Fetch Issues
+                fetch(issues_url, {
+                    headers: {
+                        Authorization: `Bearer ${token}`
+                    }
+                })
+                .then(response => response.json())
+                .then(issues => {
+                    const user_issues = issues.filter(issue => issue.user.login === username);
+                    if (user_issues.length > 0) {
+                        const issues_element = document.createElement('div');
+                        issues_element.innerHTML = `<h3>${repo_name}</h3>`;
+                        
+                        user_issues.forEach(issue => {
+                            const issueElement = createCardElement(issue);
+                            issues_element.appendChild(issueElement);
+                        });
+                        
+                        issues_section.appendChild(issues_element);
+                    }
+                });
+
+                // Fetch Pull Requests
+                fetch(pull_requests_url, {
+                    headers: {
+                        Authorization: `Bearer ${token}`
+                    }
+                })
+                .then(response => response.json())
+                .then(pullRequests => {
+                    const userPullRequests = pullRequests.filter(pr => pr.user.login === username);
+                    if (userPullRequests.length > 0) {
+                        const pullRequestsElement = document.createElement('div');
+                        pullRequestsElement.innerHTML = `<h3>${repoName}</h3>`;
+                        
+                        userPullRequests.forEach(pullRequest => {
+                            const pullRequestElement = createCardElement(pullRequest);
+                            pullRequestsElement.appendChild(pullRequestElement);
+                        });
+                        
+                        pull_requests_section.appendChild(pullRequestsElement);
+                    }
+                });
+            });
+        })
+        .catch(error => console.error('Error fetching GitHub contributions:', error));
+
+        function createCardElement(item) {
+            const cardElement = document.createElement('div');
+            cardElement.className = 'commit-card';
+            cardElement.innerHTML = `
+                <img src="https://github.com/fluidicon.png" alt="GitHub Icon">
+                <div class="commit-details">
+                    <p><strong>${item.user.login}</strong></p>
+                    <p>${item.title}</p>
+                    <p><a href="${item.html_url}" target="_blank">View on GitHub</a></p>
+                </div>
+            `;
+            return cardElement;
+        }
+    </script>
+</body>
+</html>
