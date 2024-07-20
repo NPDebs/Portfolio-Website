@@ -169,17 +169,41 @@ span {
 
 .about #image{
     height: auto;
-    width: 38%;
+    width: 35%;
 }
 
 .about-text {
-    width: 550px;
-    text-decoration: none;
+    width: 60%;
+
+    p a {
+        color: #FFF;
+    }
+
+    h2 {
+        color: white;
+        font-size: 75px;
+        text-transform: capitalize;
+        margin-bottom: 20px;
+    }
+
+    h5 {
+        color: white;
+        letter-spacing: 2px;
+        font-size: 22px;
+        margin-bottom: 25px;
+        text-transform: capitalize;
+    }
+
+    p {
+        color: #fcfc;
+        letter-spacing: 1px;
+        line-height: 28px;
+        font-size: 18px;
+        margin-bottom: 45px;
+    }
 }
 
 .skills {
-  
-  text-decoration: none;
   list-style-type: none;
   color: #fcfc;
   line-height: 25px;
@@ -187,35 +211,12 @@ span {
 }
 
 .main {
-    width: 1130px;
+    width: 90%;
     max-width: 95%;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-around;
-}
-
-.about-text h2 {
-    color: white;
-    font-size: 75px;
-    text-transform: capitalize;
-    margin-bottom: 20px;
-}
-
-.about-text h5 {
-    color: white;
-    letter-spacing: 2px;
-    font-size: 22px;
-    margin-bottom: 25px;
-    text-transform: capitalize;
-}
-
-.about-text p {
-    color: #fcfc;
-    letter-spacing: 1px;
-    line-height: 28px;
-    font-size: 18px;
-    margin-bottom: 45px;
 }
 
 .details {
@@ -249,24 +250,24 @@ span {
     position: relative;
     overflow: hidden;
     text-align: center;
-}
 
-.card li {
-    color: white;
-  }
-  
-.card i {
-    font-size: 50px;
-    display: block;
-    text-align: center;
-    margin: 25px;
-    color: #f9004d;
-}
+    li {
+        color: white;
+    }
+    
+    i {
+        font-size: 50px;
+        display: block;
+        text-align: center;
+        margin: 25px;
+        color: #f9004d;
+    }
 
-.card h5 {
-    color: white;
-    font-size: 23px;
-    margin-bottom: 15px;
+    h5 {
+        color: white;
+        font-size: 23px;
+        margin-bottom: 15px;
+    }
 }
 
 .paragraph p {
