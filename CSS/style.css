@@ -644,3 +644,15 @@ section .about {
     margin-top: 10px;
 }
 }
+
+#events, #talks {
+    padding: 100px 0;
+    background-color: #242524;
+}
+#events .section_title, #talks .section_title {
+    font-size: 60px;
+    color: #f9004d;
+}
+#events .portfolio_card, #talks .portfolio_card {
+    background-color: #fcf9f9;
+}
