@@ -1,30 +1,26 @@
 # **NURSES AT A CLICK: TELEHEALTH AS A SOLUTION FOR NURSING SHORTAGE**
+
 **BY**
+
 **UDOH DEBORAH** 
+
 **(U2018/4730005)**
 
 A Seminar Paper submitted in partial fulfilment of the requirement for NSC 506.1 \- NURSING SEMINAR, to the Department of Nursing Science, Faculty of Clinical Sciences, College of Health Sciences, University of Port Harcourt.
 
 OCTOBER, 2024
 
-
 # **ACKNOWLEDGEMENT**
 
 I express my deep gratitude to my Rock, the person of Jesus Christ, for His limitless mercy and provision. Special thanks to Dr. Abigail Horsfall, the esteemed head of the Department of Nursing Science, whose invaluable contributions greatly facilitated the completion of this work. My profound appreciation goes to my course lecturers, Mrs Florence Ugwu and Mr Magnus Apuanu, for their expert guidance, patience, and steadfast support throughout this journey.
-I owe a debt of gratitude to the dedicated members and staff of the Department of Nursing Science, University of Port Harcourt, whose knowledge has been instrumental in conducting this research. My heartfelt thanks go to my parents, Mr. and Mrs. Udoh, and my siblings for their encouragement and sacrifices that have propelled me in my academic journey. 
-I am also profoundly grateful to my friends, Okome Tosan and Omunakwe Endurance, whose unwavering companionship and encouragement have been a constant source of strength and inspiration.
+
+I owe a debt of gratitude to the dedicated members and staff of the Department of Nursing Science, University of Port Harcourt, whose knowledge has been instrumental in conducting this research. My heartfelt thanks go to my parents, Mr. and Mrs. Udoh, and my siblings for their encouragement and sacrifices that have propelled me in my academic journey. I am also profoundly grateful to my friends, Okome Tosan and Omunakwe Endurance, whose unwavering companionship and encouragement have been a constant source of strength and inspiration.
+
 I extend my sincere appreciation to my church community for their prayers and steadfast support that has sustained me spiritually. Finally, I thank my classmates for their cooperation and warmth, which have enriched this academic pursuit.
 
 # **ABSTRACT**
 
-The global shortage of nurses, including in Nigeria, presents significant challenges to healthcare delivery, impacting both the quality and accessibility of care. 
-Nurses are essential to maintaining efficient healthcare systems, but the demand for their services continues to outpace supply. 
-The World Health Organization predicts a global shortfall of 12.9 million nurses by 2035\. 
-In Nigeria, factors such as poor healthcare policies, brain drain, and limited nursing school capacity exacerbate the issue. 
-These conditions lead to burnout and job dissatisfaction among the remaining workforce, further weakening the healthcare system. 
-Telehealth has emerged as a potential solution to this crisis by offering healthcare services remotely through digital technology. 
-Telehealth applications, including video conferencing, remote patient monitoring, and mobile health apps, enable healthcare workers to provide care without the need for physical proximity. 
-In Nigeria, telehealth initiatives have already shown promise, particularly in maternal and child health, diabetes care, and mental health services. By reducing the need for travel and in-person consultations, telehealth can alleviate the strain on nurses, mitigate burnout, and extend healthcare access to underserved areas. This paper explores the current nursing shortage in Nigeria, the role telehealth can play in addressing this shortage, and the challenges and benefits of integrating telehealth into the Nigerian healthcare system. Recommendations for policy changes, investments in technology, and training for healthcare workers are proposed as strategies for mitigating the nursing shortage and strengthening healthcare delivery in Nigeria.
+The global shortage of nurses, including in Nigeria, presents significant challenges to healthcare delivery, impacting both the quality and accessibility of care. Nurses are essential to maintaining efficient healthcare systems, but the demand for their services continues to outpace supply. The World Health Organization predicts a global shortfall of 12.9 million nurses by 2035\. In Nigeria, factors such as poor healthcare policies, brain drain, and limited nursing school capacity exacerbate the issue. These conditions lead to burnout and job dissatisfaction among the remaining workforce, further weakening the healthcare system. Telehealth has emerged as a potential solution to this crisis by offering healthcare services remotely through digital technology. Telehealth applications, including video conferencing, remote patient monitoring, and mobile health apps, enable healthcare workers to provide care without the need for physical proximity. In Nigeria, telehealth initiatives have already shown promise, particularly in maternal and child health, diabetes care, and mental health services. By reducing the need for travel and in-person consultations, telehealth can alleviate the strain on nurses, mitigate burnout, and extend healthcare access to underserved areas. This paper explores the current nursing shortage in Nigeria, the role telehealth can play in addressing this shortage, and the challenges and benefits of integrating telehealth into the Nigerian healthcare system. Recommendations for policy changes, investments in technology, and training for healthcare workers are proposed as strategies for mitigating the nursing shortage and strengthening healthcare delivery in Nigeria.
 
 # **CHAPTER ONE**
 
@@ -91,7 +87,6 @@ A study by Haleem, et Al. (2021) identified seventeen (17) significant applicati
 16. **Cost-effective healthcare delivery:** Offers cost-effective healthcare delivery by eliminating the need for travel and reducing consultation expenses.  
 17. **Reduced need for face-to-face meetings:** Reduces the need for face-to-face meetings, enabling efficient patient monitoring and streamlined emergency care.
 
-
 While telemedicine offers clear advantages and flourishes in developed nations, Nigeria has failed to fully harness this healthcare tool (Egbewande et Al., 2023). In the country, the adoption of telehealth has been gradual, but there are several noteworthy initiatives and applications within the nursing and healthcare practice.  
    
 One of the prominent applications of telehealth in Nigeria is in the area of maternal and child health. **The Mobile Alliance for Maternal Action** (MAMA) project, launched in 2011, utilises mobile technology to deliver vital health information to pregnant women and new mothers in various Nigerian languages (Jennings et al., 2019). This initiative has been instrumental in providing access to essential healthcare information and support, particularly in rural and underserved communities where access to healthcare facilities is limited.
@@ -146,7 +141,7 @@ Finally, **policies that limit nurses' autonomy in decision-making** can be demo
 
 ## **THE POTENTIAL OF TELEHEALTH IN MITIGATING THE EFFECTS OF THE NURSING SHORTAGE IN NIGERIA:** 
 
-## With the progressively worsening decline in nursing staff, the future of the Nigerian healthcare system appears bleak. However, there is a world of benefits yet to be explored in telehealth. It might indeed be the vehicle that conveys the average man into a healthier tomorrow. Telehealth emerges offers a potential solution to bridge the critical gap in many, few of which are discussed in the paragraphs that follow.
+With the progressively worsening decline in nursing staff, the future of the Nigerian healthcare system appears bleak. However, there is a world of benefits yet to be explored in telehealth. It might indeed be the vehicle that conveys the average man into a healthier tomorrow. Telehealth emerges offers a potential solution to bridge the critical gap in many, few of which are discussed in the paragraphs that follow.
 
 One of the most significant advantages of telehealth is its ability to **increase access to care**. A key advantage of telehealth is its ability to extend the reach of nursing care beyond traditional healthcare facilities. For instance, imagine a patient in a remote village, struggling with a chronic illness. Traditionally, accessing specialised care might require a long and arduous journey. Telehealth breaks down this barrier by allowing virtual consultations with nurses.
 
@@ -166,17 +161,13 @@ Lastly, **improving database management** is another area where telehealth can m
 
 ## **SUMMARY**
 
-## There is a critical issue of nursing shortage in Nigeria, exacerbated by factors such as poor policies, brain drain, and limited nursing school capacity. Telehealth offers a promising solution to address this shortage by improving access to healthcare services, especially in underserved areas. Globally, telehealth has been successfully used to reduce healthcare costs and enhance patient care. In Nigeria, telehealth initiatives such as maternal and child health programs and mental health services have shown potential to alleviate the strain on healthcare systems. The nursing shortage has led to increased burnout and job dissatisfaction, which telehealth can help mitigate by reducing the need for in-person consultations and enabling remote care. Furthermore, telehealth supports professional development for nurses through virtual learning platforms and online training programs, helping to upskill the workforce. By streamlining healthcare delivery processes and integrating technologies like remote patient monitoring and electronic health records, telehealth can improve patient outcomes and reduce hospital readmissions. 
-Recommendations include expanding telehealth infrastructure, providing training for healthcare workers, and fostering collaboration among stakeholders to effectively integrate telehealth into the Nigerian healthcare system.
+There is a critical issue of nursing shortage in Nigeria, exacerbated by factors such as poor policies, brain drain, and limited nursing school capacity. Telehealth offers a promising solution to address this shortage by improving access to healthcare services, especially in underserved areas. Globally, telehealth has been successfully used to reduce healthcare costs and enhance patient care. In Nigeria, telehealth initiatives such as maternal and child health programs and mental health services have shown potential to alleviate the strain on healthcare systems. The nursing shortage has led to increased burnout and job dissatisfaction, which telehealth can help mitigate by reducing the need for in-person consultations and enabling remote care. Furthermore, telehealth supports professional development for nurses through virtual learning platforms and online training programs, helping to upskill the workforce. By streamlining healthcare delivery processes and integrating technologies like remote patient monitoring and electronic health records, telehealth can improve patient outcomes and reduce hospital readmissions. Recommendations include expanding telehealth infrastructure, providing training for healthcare workers, and fostering collaboration among stakeholders to effectively integrate telehealth into the Nigerian healthcare system.
 
 ## **CONCLUSION** 
 
-The nursing shortage is not merely a numbers problem; it is a crisis that strikes at the very heart of healthcare delivery. As nurses leave the profession or migrate to better opportunities, the ripple effects are felt across all levels of patient care, from overburdened hospitals to underserved rural communities. 
-The shortage compromises the quality of care, amplifies health disparities, and increases the strain on an already overwhelmed workforce. This is not a future challenge—it is a present reality that requires immediate attention. 
-Telehealth, with its ability to bridge geographical and workforce gaps, offers a lifeline. But its potential can only be fully realised if we invest in its implementation, train healthcare workers, and shift our mindset toward embracing digital solutions.
+The nursing shortage is not merely a numbers problem; it is a crisis that strikes at the very heart of healthcare delivery. As nurses leave the profession or migrate to better opportunities, the ripple effects are felt across all levels of patient care, from overburdened hospitals to underserved rural communities. The shortage compromises the quality of care, amplifies health disparities, and increases the strain on an already overwhelmed workforce. This is not a future challenge—it is a present reality that requires immediate attention. Telehealth, with its ability to bridge geographical and workforce gaps, offers a lifeline. But its potential can only be fully realised if we invest in its implementation, train healthcare workers, and shift our mindset toward embracing digital solutions.
 
-Finally, there is no wisdom in ignoring the current and projected nursing shortage, as it threatens to birth severe consequences in the healthcare systems globally. Fortunately, telehealth stands as a ray of sunshine, representing a promising solution to fill the void and safeguard our healthcare systems. 
-There is no better time than now, to acknowledge the gravity of the issue and act decisively. It beckons us to ask: Can we offer collective compassion and commitment, or do we let this ticking time bomb implode on us? The answer lies not just in policies and strategies, but in the depths of our collective conscience. The future of healthcare hinges on our ability to act in unison – will we rise to the challenge?
+Finally, there is no wisdom in ignoring the current and projected nursing shortage, as it threatens to birth severe consequences in the healthcare systems globally. Fortunately, telehealth stands as a ray of sunshine, representing a promising solution to fill the void and safeguard our healthcare systems. There is no better time than now, to acknowledge the gravity of the issue and act decisively. It beckons us to ask: Can we offer collective compassion and commitment, or do we let this ticking time bomb implode on us? The answer lies not just in policies and strategies, but in the depths of our collective conscience. The future of healthcare hinges on our ability to act in unison – will we rise to the challenge?
 
 ## **RECOMMENDATIONS** 
 
